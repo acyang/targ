@@ -13,7 +13,7 @@ Venue:
 [711台南市歸仁區歸仁十三路一段6號](https://g.co/kgs/vDDE87i)
 
 
-
+<!--more-->
 
 
 

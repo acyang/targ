@@ -12,6 +12,7 @@ CFD also aids in optimizing the aerodynamic design of hypersonic vehicles. By si
 
 This scope of work aims to cross-validate/verification various CFD solvers to provide more accurate and reliable results for designing hypersonic flights.
         
+<!--more-->
 
 ## Eligibility Criteria
 The principal investigator and co-investigators shall be approved by NSTC in accordance with the [Operation Guidelines for Institutions Applying for NSTC Grants](https://www.nstc.gov.tw/nstc/attachments/59ac6962-14f9-436d-918b-b3c94ffc28e4?).
