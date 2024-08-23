@@ -25,6 +25,6 @@ Up to NTD. 750k
 Proposals are due on Sep 15, 2024.
 
 ## Templates: 
-[Download](proposal/application_form.doc)
+[Download](https://acyang.github.io/targ/proposal/application_form.doc)
 
 ---
